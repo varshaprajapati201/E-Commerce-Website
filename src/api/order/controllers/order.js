@@ -1,6 +1,6 @@
 
-
-'use strict';
+("use strict");
+// @ts-ignore
 const stripe = require("stripe")(process.env.STRIPE_KEY);
 /**
  * order controller

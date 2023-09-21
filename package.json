@@ -13,6 +13,8 @@
     "@strapi/plugin-i18n": "4.12.7",
     "@strapi/plugin-users-permissions": "4.12.7",
     "@strapi/strapi": "4.12.7",
+    "@stripe/react-stripe-js": "^2.3.0",
+    "@stripe/stripe-js": "^2.1.6",
     "mysql": "2.18.1",
     "stripe": "^13.6.0"
   },
